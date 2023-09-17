@@ -28,7 +28,8 @@ Authorization
 
 ### Architecture Diagram
 
-![Untitled](Auth0%20clone%2065e480dac7aa4ccb8189ee559d4d5941/Untitled.png)
+![Untitled](https://github.com/VinodKW/auth0-clone/assets/40213599/2ed68580-d95a-47d3-a0f2-94d8cd69a31d)
+
 
 ## Breakdown of phases of project (e.g. building backend e.g.):
 
