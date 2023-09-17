@@ -27,9 +27,7 @@ Authorization
 - User level resource access restrictions.
 
 ### Architecture Diagram
-
-![Untitled](https://github.com/VinodKW/auth0-clone/assets/40213599/2ed68580-d95a-47d3-a0f2-94d8cd69a31d)
-
+![Technical Diagrams](https://github.com/VinodKW/auth0-clone/assets/40213599/7e3b651d-814f-4b2b-ace4-a1f18eb1f43f)
 
 ## Breakdown of phases of project (e.g. building backend e.g.):
 
