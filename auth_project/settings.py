@@ -41,7 +41,8 @@ INSTALLED_APPS = [
 
     # Third party apps
     'rest_framework', 
-    'rest_framework.authtoken', 
+    'rest_framework.authtoken',
+    'drf_spectacular', 
     'allauth', 
     'allauth.account', 
     'dj_rest_auth', 
@@ -164,3 +165,10 @@ AUTHENTICATION_BACKENDS = [
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 LOGIN_URL = 'http://localhost:8000/accounts/v1/login/'
+
+SPECTACULAR_SETTINGS = {
+    "TITLE": "Auth0 Clone",
+    "DESCRIPTION": "Auth0 Clone",
+    "VERSION": "1.0.0",
+    # OTHER SETTINGS
+}
