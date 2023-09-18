@@ -10,6 +10,11 @@
 - python3 manage.py migrate
 - python3 manage.py runserver
 ```
+## **Swagger API's**
+```
+- http://localhost:8000/api/schema/swagger-ui/
+- http://localhost:8000/api/schema/redoc/
+```
 ## **Summary:**
 
 - **Motivation**: Our project aims to create a dedicated organization-level authentication service, empowering us with full control over user authentication and authorization. This initiative allows us to reduce dependency on third-party, paid authentication providers.
