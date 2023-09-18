@@ -62,3 +62,9 @@ Authorization
     - Add password reset functionality with email verification.
 - Outcome
     - Phase 2 builds upon Phase 1, adding password reset functionality to enhance user convenience.
+ 
+### API's
+
+<img src="https://github.com/VinodKW/auth0-clone/assets/40213599/192872e1-4be6-4854-a7e8-ddc54f043c7e" width="1400" height="1200">
+
+
