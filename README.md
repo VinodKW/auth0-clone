@@ -1,5 +1,15 @@
 # Auth0 clone
-
+## **Commands**
+```
+- git clone <repo>
+- cd <repo>
+- python3 -m venv .venv (Python3 version should be >=3.8.10)
+- source .venv/bin/activate
+- pip install -r requirements.txt
+- python3 manage.py makemigrations
+- python3 manage.py migrate
+- python3 manage.py runserver
+```
 ## **Summary:**
 
 - **Motivation**: Our project aims to create a dedicated organization-level authentication service, empowering us with full control over user authentication and authorization. This initiative allows us to reduce dependency on third-party, paid authentication providers.
@@ -39,10 +49,10 @@ Authorization
     - Set up django project
     - Implement a user model with email and password field
     - Create token authorization
-    - Build API endopints for user registration, login and, logout.
+    - Build API endpoints for user registration, login and, logout.
     - Implement basic error handling and validation.
 - Outcome
-    - At the end of phase 1, we will have a functional authentication system that allows users to register, login and logout using token authentication with email verification.
+    - At the end of phase 1, we will have a functional authentication system that allows users to register, login and, logout using token authentication with email verification.
 
 ### phase 2: Password Reset ( 2 hours )
 
